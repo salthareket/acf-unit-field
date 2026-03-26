@@ -2,7 +2,7 @@
 /*
 Plugin Name: ACF Units Field
 Description: Adds units select menu to text field..
-Version: 1.0.2
+Version: 1.0.3
 Author: Tolga Koçak
 */
 
